@@ -1,6 +1,8 @@
 # QUICK START
 
 Clone the project.
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 The tech stack is:
 
