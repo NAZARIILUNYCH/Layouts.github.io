@@ -3,7 +3,7 @@
 Clone the project.
 
 http://github.com - automatic!
-[GitHub](https://github.com/NAZARIILUNYCH/Layouts.github.io)
+[GitHub](http://127.0.0.1:5500/index.html)
 
 The tech stack is:
 
