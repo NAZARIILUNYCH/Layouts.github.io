@@ -2,7 +2,7 @@
 
 Just click:
 
-[LAYOUT](http://127.0.0.1:5500/index.html)
+[Foundation Layout](http://127.0.0.1:5500/index.html)
 
 The tech stack is:
 
