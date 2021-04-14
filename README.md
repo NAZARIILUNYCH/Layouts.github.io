@@ -2,7 +2,7 @@
 
 Just click:
 
-[GitHub](http://127.0.0.1:5500/index.html)
+[LAYOUT](http://127.0.0.1:5500/index.html)
 
 The tech stack is:
 
