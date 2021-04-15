@@ -49,8 +49,12 @@ html {
   }
 }
 
-/* Header */
+.logo__description-vertical {
+  display: none;
+  width: 500px;
+}
 
+/* Header */
 .top-section {
   background: #f3c6bd;
 }
